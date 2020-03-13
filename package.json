@@ -1,0 +1,24 @@
+{
+  "name": "fb-getting",
+  "version": "1.0.0",
+  "description": "Getting the fb elements",
+  "main": "scriptFB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khangkhangtg/fb-getting.git"
+  },
+  "keywords": [
+    "javascript",
+    "facebook",
+    "crawler"
+  ],
+  "author": "Kit Hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khangkhangtg/fb-getting/issues"
+  },
+  "homepage": "https://github.com/khangkhangtg/fb-getting#readme"
+}
